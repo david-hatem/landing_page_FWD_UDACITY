@@ -10,7 +10,6 @@
 * Creating Navigation bar dynamically.
 * Scroll to any section by clicking on the element in the Navbar.
 * the section in the viewport will have the active class.
-* Smooth Scroll.
 
 ## Resources
 * Google Fonts => Fira Sans - Merriweather
